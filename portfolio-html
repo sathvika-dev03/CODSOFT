@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sai Sathvika Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Sai Sathvika</h1>
+    <p>Aspiring AI/ML Engineer | Web Developer</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <div class="about-content">
+      <img src="profile.jpg" alt="Sai Sathvika" />
+      <p>
+        I am currently pursuing B.Tech in CSE with a specialization in AI/ML. I'm passionate about building intelligent systems and developing responsive web interfaces. Currently interning at CodSoft as a web development intern.
+      </p>
+    </div>
+  </section>
+
+  <section id="skills">
+    <h2>Technical Skills</h2>
+    <ul>
+      <li>Python, Java, C</li>
+      <li>HTML, CSS</li>
+      <li>Git, VS Code</li>
+      <li>Machine Learning, Data Structures</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects & Learning</h2>
+    <ul>
+      <li>CodSoft Web Development Internship – Front-end website development</li>
+      <li>Tata Group Virtual Program – Mindluster & Forage</li>
+      <li>AWS Cloud Fundamentals</li>
+      <li>NWS Web Solutions & Development Insights</li>
+    </ul>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p>
+      <a href="Kolusu_Sai_Sathvika_Resume (1).pdf" download>Download My Resume (PDF)</a>
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: <a href="mailto:kolususathvika@gmail.com">kolususathvika@gmail.com</a></p>
+    <p>Phone: 9381935123</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Sai Sathvika. All rights reserved.</p>
+  </footer>
+</body>
+</html>
